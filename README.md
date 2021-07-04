@@ -1,2 +1,2 @@
-# Auth-Jwt
-Created a simple authentication api for our team project "Trip-Split app".Learnt basics of NodeJS,ExpressJS and MongoDB to build.
+# Trip Split App (Backend)
+Created authentication api using JWT,Main Api is work in progress for our team project "Trip-Split app".Learnt basics of NodeJS,ExpressJS and MongoDB to build.
