@@ -3,6 +3,6 @@ const verify = require('./verifyToken');
 
 
 router.get('/',async(req,res)=>{
-    res.send('Heroku Test');
+    res.send('Please refer https://github.com/jagritx/TripSplit-App-JWT-Auth');
 });
 module.exports = router;
